@@ -47,8 +47,8 @@ Bash
 python app.py
 Open your browser and navigate to http://127.0.0.1:7860 to use the tool locally.
 
-👨‍💻 About the Author
-Designed and developed by Thevindu Dilmith A.K., an engineering student at the University of Moratuwa. This project combines robust Python backend logic with modern, aesthetic web design principles to create a highly functional AI utility.
+##👨‍💻 About the Author
+Designed and developed by Thevindu Dilmith A.K., a computer science and engineering student at the University of Moratuwa. This project combines robust Python backend logic with modern, aesthetic web design principles to create a highly functional AI utility.
 
 © 2026 All Rights Reserved.
    ```bash
